@@ -10,7 +10,7 @@ import projImg7 from "../assets/img/projet7.png";
 import projImg8 from "../assets/img/projet8.png";
 import projImg9 from "../assets/img/projet9.png";
 import projImg10 from "../assets/img/projet10.png";
-
+import projImg11 from "../assets/img/projet11.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -73,6 +73,13 @@ const aiProjects = [
     description: "Machine Learning Project",
     imgUrl: projImg8,
     githubLink: "https://github.com/Niihaad/DL__Projects/blob/main/DecisionTree.ipynb", 
+ 
+  },
+  {
+    title: "Building AI/Data Science Assistant (ChatBot)",
+    description: "Chatbot Project",
+    imgUrl: projImg11,
+    githubLink: "https://github.com/Niihaad/Building-MyFirst-ChatBot-AI-Assistant", 
  
   }
 ];
