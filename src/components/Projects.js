@@ -61,7 +61,7 @@ const aiProjects = [
  
   },
   {
-    title: "Building  an employee attrition Predicting Model",
+    title: "Building  employee attrition Predicting Model",
     description: "Machine Learning Project",
     imgUrl: projImg7,
     githubLink: "https://github.com/Niihaad/Acme-AttritionForecast-Analysis-and-Prediction",
