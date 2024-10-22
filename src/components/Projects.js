@@ -17,7 +17,6 @@ import TrackVisibility from 'react-on-screen';
 
 export const Projects = () => {
 
-// Projets Web Development
 const webProjects = [
   {
     title: "Online Restaurant",
@@ -62,7 +61,7 @@ const aiProjects = [
  
   },
   {
-    title: "Building employee attrition Predicting Model",
+    title: "Building  employee attrition Predicting Model",
     description: "Machine Learning Project",
     imgUrl: projImg7,
     githubLink: "https://github.com/Niihaad/Acme-AttritionForecast-Analysis-and-Prediction",
@@ -76,8 +75,8 @@ const aiProjects = [
  
   },
   {
-    title: "Building AI/Data Science Assistant (ChatBot)",
-    description: "Chatbot Project",
+    title: "Building AI/Data Science Assistant (ChatBot) ",
+    description: " Chatbot Project ",
     imgUrl: projImg11,
     githubLink: "https://github.com/Niihaad/Building-MyFirst-ChatBot-AI-Assistant", 
  
